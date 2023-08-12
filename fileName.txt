@@ -1,0 +1,9 @@
+Ticket booking Date and Time: Sun Aug 13 01:54:33 PKT 2023
+Aeroplane Name:Jihad  09:00 am
+Passenger name: sarmad
+Passenger CNIC: 12333
+Ticket Urgent: yes
+Luggage: 10.0
+Passport Availability: true
+Total Price: 11000.0
+====================================
